@@ -6,7 +6,7 @@ A web-based Resume Parser built using Python and Flask.
 
 Try the application here:
 
-https://resume-parser-rj19.onrender.com
+https://resume-parser-rjl9.onrender.com
 
 ## Features
 
